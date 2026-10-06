@@ -1,0 +1,16 @@
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.db
+*.sqlite
+*.sqlite3
+*.log
+vendor/
+.env
+.env.local
+.DS_Store
+*.out
+coverage.out
